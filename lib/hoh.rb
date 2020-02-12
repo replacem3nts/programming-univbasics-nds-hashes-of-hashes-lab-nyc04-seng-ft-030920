@@ -32,7 +32,7 @@
 
 def naming_system
 PORTION_1[:label][:label][:label] = PORTION_2
-
+PORTION_1
 
 
   # Remember:
